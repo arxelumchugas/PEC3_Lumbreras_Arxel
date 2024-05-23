@@ -13,10 +13,17 @@ En l'era de la digitalització massiva, la **hibridació dels mitjans** s'ha est
 > "La nueva estética híbrida existe en infinidad de variaciones, pero su principio más básico es siempre el mismo: yuxtaponer estéticas visuales de distintos medios previamente diferenciadas dentro de una misma imagen." - Lev Manovich, 2013.
 
 ## 🎭 Re-descubriendo la hibridación: Caso 1 - Björk Digital
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/arxelumchugas/PEC3_Lumbreras_Arxel/blob/c1f3e9e8dc44812353de1c9dad80f3cff836a3e7/Two" width="700" alt="Björk Digital">
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p>El primer cas d'estudi, "Björk Digital", es tracta d'una exposició itinerant que mostra la música i els vídeos de l'artista islandesa Björk a través de formats digitals variats, incloent la realitat virtual. Aquesta exposició innovadora destaca per la seva capacitat d'integrar diferents elements multimèdia per a crear una experiència immersiva i captivadora. Els visitants no es limiten a ser espectadors passius; en lloc d'això, interactuen directament amb les instal·lacions, explorant l'intersecció entre la música, l'art visual i la tecnologia.</p>
+    </td>
+  </tr>
+</table>
 
-
-
-El primer cas d'estudi, "Björk Digital", es tracta d'una exposició itinerant que mostra la música i els vídeos de l'artista islandesa Björk a través de formats digitals variats, incloent la realitat virtual. Aquesta exposició innovadora destaca per la seva capacitat d'integrar diferents elements multimèdia per a crear una experiència immersiva i captivadora. Els visitants no es limiten a ser espectadors passius; en lloc d'això, interactuen directament amb les instal·lacions, explorant l'intersecció entre la música, l'art visual i la tecnologia.
 
 ## 🎶 Re-descubriendo la hibridación: Caso 2 - Kid A Mnesia Exhibition
 <table>
