@@ -3,7 +3,7 @@
 **Autor: Arxel Lumbreras**  
 **Fecha: 23/05/2024**  
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
+![Cultura Digital](https://github.com/arxelumchugas/PEC3_Lumbreras_Arxel/blob/73b106c211efeac5b964b1beacfc2d8a465bd148/background.webp)
 
 ## 🌐 Planteamiento
 
