@@ -1,11 +1,11 @@
 # PEC3: Explorant la hibridació en l'era digital amb Manovich
 
 **Autor: Arxel Lumbreras**  
-**Fecha: 23/05/2024**  
+**Data: 23/05/2024**  
 
 ![Cultura Digital](https://github.com/arxelumchugas/PEC3_Lumbreras_Arxel/blob/8d9d63ddbbfbe0fd418e9962b48ef3c11a0a1a7e/background.png)
 
-## 🌐 Planteamiento
+## 🌐 Plantejament
 
 En l'era de la digitalització massiva, la **hibridació dels mitjans** s'ha establert com un element clau a la confluència de la tecnologia, l'art i la comunicació. Dins dels mitjans digitals, la hibridació fa referència a la integració de diverses formes artístiques i tecnològiques que anteriorment es consideraven independents, creant així noves formes d'expressió que exploten les possibilitats de les tecnologies contemporànies.
 
@@ -38,7 +38,7 @@ En l'era de la digitalització massiva, la **hibridació dels mitjans** s'ha est
 </table>
 
 
-## 📚 Referencias y Bibliografía
+## 📚 Referencies y Bibliografia
 
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
 
