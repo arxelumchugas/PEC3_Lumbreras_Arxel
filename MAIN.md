@@ -12,7 +12,7 @@ En l'era de la digitalització massiva, la **hibridació dels mitjans** s'ha est
 > **Cita de Manovich:**
 > "La nueva estética híbrida existe en infinidad de variaciones, pero su principio más básico es siempre el mismo: yuxtaponer estéticas visuales de distintos medios previamente diferenciadas dentro de una misma imagen." - Lev Manovich, 2013.
 
-## 🎭 Noves mirades a la hibridació: Cas 1 - [Björk Digital] (https://github.com/arxelumchugas/PEC3_Lumbreras_Arxel/blob/7ba98379a8ae081f4996c6d83b4fc5718a41411f/bjork.md)
+## 🎭 Noves mirades a la hibridació: Cas 1 - [Björk Digital](https://github.com/arxelumchugas/PEC3_Lumbreras_Arxel/blob/7ba98379a8ae081f4996c6d83b4fc5718a41411f/bjork.md)
 <table>
   <tr>
     <td>
