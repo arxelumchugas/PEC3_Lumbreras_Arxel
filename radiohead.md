@@ -4,6 +4,8 @@ T'ha passat que l'emoció t'envaeix el cos quan saps que la teva banda preferida
 
 Aquest canvi es reflecteix clarament en "Kid A Mnesia: The Exhibition", una iniciativa que transcendeix una simple reedició d'àlbums. En col·laboració amb desenvolupadors de videojocs, Radiohead ha creat una experiència interactiva que combina música, art visual i jugabilitat en un espai virtual immersiu. Aquest projecte marca un avantatge en la hibridació dels mitjans, explorant com la música pot reimaginar-se.
 
+(https://youtu.be/JtxZq0vp1sM?si=sTTbAVH-gcMkHEhn)
+
 Lev Manovich destaca aquest fenomen en el seu llibre, afirmant que "la lògica dels mitjans digitals significa que qualsevol material - sons, text, imatges, animacions, vídeo i altres mitjans - poden ser combinats de maneres noves i riques" . Aquesta observació és vital per comprendre la profunditat i l'abast de projectes com "Kid A Mnesia: The Exhibition". 
 
 La experiència a "Kid A Mnesia" destaca per la seva llibertat de moviment dins un entorn virtual, on pots interactuar amb elements diversos que reflecteixen temes i sons dels àlbums. Les exposicions, que van des de marques en les parets fins a pantalles multimèdia i cambres de retalls de paper, creen un flux constant de descobriments.
