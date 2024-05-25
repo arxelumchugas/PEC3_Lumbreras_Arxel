@@ -25,7 +25,7 @@ En l'era de la digitalització massiva, la **hibridació dels mitjans** s'ha est
 </table>
 
 
-## 🎶 Noves mirades a la hibridació: Cas 2 - [Kid A Mnesia Exhibition](https://github.com/arxelumchugas/PEC3_Lumbreras_Arxel/blob/a1c1cc7a93f0f596b89d41205f76935a75c3c5af/radiohead.md))
+## 🎶 Noves mirades a la hibridació: Cas 2 - [Kid A Mnesia Exhibition](https://github.com/arxelumchugas/PEC3_Lumbreras_Arxel/blob/a1c1cc7a93f0f596b89d41205f76935a75c3c5af/radiohead.md)
 <table>
   <tr>
     <td>
