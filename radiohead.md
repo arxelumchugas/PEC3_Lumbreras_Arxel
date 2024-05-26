@@ -19,4 +19,6 @@ La resposta del públic a aquesta innovació ha estat majoritàriament positiva,
 
 En resum, "Kid A Mnesia: The Exhibition" exemplifica com la hibridació dels mitjans està redefinint la manera de consumir música i interactuar amb l'art en general. En aquesta nova era, els límits entre disciplines artístiques són cada vegada més difusos, obrint camí a un món de possibilitats creatives. Aquest projecte, que celebra dues dècades de música icònica, també estableix un precedent per a futures exploracions artístiques en el món digital.
 
+---
 
+**Licencia:** Excepte on s'indiqui el contrari, tot el contingut d'aquest projecte està desenvolupat sota llicència CC BY-SA 4.0. Les imatges perteneixen a Eurogamer.
