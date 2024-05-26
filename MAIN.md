@@ -1,7 +1,7 @@
 # PEC3: Explorant la hibridació en l'era digital amb Manovich
 
 **Autor: Arxel Lumbreras**  
-**Data: 23/05/2024**  
+**Data: 26/05/2024**  
 
 ![Cultura Digital](https://github.com/arxelumchugas/PEC3_Lumbreras_Arxel/blob/8d9d63ddbbfbe0fd418e9962b48ef3c11a0a1a7e/background.png)
 
@@ -38,7 +38,7 @@ En l'era de la digitalització massiva, la **hibridació dels mitjans** s'ha est
 </table>
 
 
-## 📚 Referencies y Bibliografia
+## 📚 Referencies i Bibliografia
 
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
 - [Kid A Mnesia: Exhibition review - a striking audiovisual tour Trippy down memory lane.](https://www.eurogamer.net/kid-a-mnesia-exhibition-review)
