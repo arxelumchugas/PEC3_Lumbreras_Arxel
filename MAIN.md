@@ -41,9 +41,8 @@ En l'era de la digitalització massiva, la **hibridació dels mitjans** s'ha est
 ## 📚 Referencies y Bibliografia
 
 - Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
-- [Kid A Mnesia: Exhibition review - a striking audiovisual tour
+- [Kid A Mnesia: Exhibition review - a striking audiovisual tour Trippy down memory lane.](https://www.eurogamer.net/kid-a-mnesia-exhibition-review)
 - [Wikipedia Kid A Mnesia: Exhibition](https://en.wikipedia.org/wiki/Kid_A_Mnesia_Exhibition)
-Trippy down memory lane.](https://www.eurogamer.net/kid-a-mnesia-exhibition-review)
 - [«Björk digital»: una ópera tecnológica](https://lab.cccb.org/es/bjork-digital-una-opera-tecnologica/)
 - [Wikipedia Björk Digital](https://en.wikipedia.org/wiki/Bj%C3%B6rk_Digital)
 - [Björk digital: arte en realidad virtual](https://blog.inmersys.com/bjork-digital-arte-en-realidad-virtual)
