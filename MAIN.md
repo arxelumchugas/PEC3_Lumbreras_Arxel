@@ -50,4 +50,5 @@ En l'era de la digitalització massiva, la **hibridació dels mitjans** s'ha est
 
 ---
 
-**Licencia:** Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/)
+**Licencia:** Excepte on s'indiqui el contrari, tot el contingut d'aquest projecte està desenvolupat sota llicència CC BY-SA 4.0. Les imatges generades per IA són alliberades al domini públic sota CC0.
+
